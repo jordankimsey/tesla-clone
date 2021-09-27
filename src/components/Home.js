@@ -51,8 +51,7 @@ function Home() {
           title='Accessories'
           description=''
           backgroundImg='accessories.jpg'
-          leftBtnText='Order now'
-          rightBtnText='Learn more'
+          leftBtnText='Shop now'
         />
       </Container>
     );
